@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "question": "What is the capital of Nigeria?",
+        "options": ["Lagos", "Abuja", "Port Harcourt", "Ibadan"],
+        "correctAnswer": 1
+    },
+    {
+        "id": 2,
+        "question": "What is the chemical formula for water?",
+        "options": ["H2O", "O2", "CO2", "NaCl"],
+        "correctAnswer": 0
+    }
+]
